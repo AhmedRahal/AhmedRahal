@@ -4,7 +4,7 @@ I'm a developer just getting started, and I learn by building real projects: des
 
 ## Projects
 
-- **[Nurov]([LINK TO NUROV REPO])**: a free, open-source desktop note-taking app built with Electron.
+- **[Nurov]([[LINK TO NUROV REPO](https://github.com/AhmedRahal/nurov)])**: a free, open-source desktop note-taking app built with Electron.
 - **[Nurov API](https://github.com/AhmedRahal/nurov-api)**: the Flask REST API behind Nurov, handling accounts and notes.
 - **[Hospital Website](https://github.com/AhmedRahal/micro)**: a multi-page hospital site in plain HTML and CSS. [Live demo](https://ahmedrahal.github.io/micro/)
 
@@ -22,4 +22,4 @@ Python · JavaScript · HTML · CSS / SCSS · Flask · Electron · SQLite
 I'm open to developer roles, freelance work and collaborations.
 
 - Email: [ahmedrahal.dev@gmail.com](mailto:ahmedrahal.dev@gmail.com)
-- Portfolio: [PORTFOLIO LINK]
+- Portfolio: [https://ahmedrahal.github.io/]
