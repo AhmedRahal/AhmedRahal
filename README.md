@@ -4,7 +4,7 @@ I'm a developer just getting started, and I learn by building real projects: des
 
 ## Projects
 
-- **[Nurov]([(https://github.com/AhmedRahal/nurov)])**: a free, open-source desktop note-taking app built with Electron.
+- **[Nurov](https://github.com/AhmedRahal/nurov)**: a free, open-source desktop note-taking app built with Electron.
 - **[Nurov API](https://github.com/AhmedRahal/nurov-api)**: the Flask REST API behind Nurov, handling accounts and notes.
 - **[Hospital Website](https://github.com/AhmedRahal/micro)**: a multi-page hospital site in plain HTML and CSS. [Live demo](https://ahmedrahal.github.io/micro/)
 
